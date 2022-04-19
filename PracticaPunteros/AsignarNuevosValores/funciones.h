@@ -1,0 +1,1 @@
+void modificaVar( int * p, int valor);

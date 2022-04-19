@@ -1,0 +1,1 @@
+void MostrarDatos(ALUMNO *alumno);

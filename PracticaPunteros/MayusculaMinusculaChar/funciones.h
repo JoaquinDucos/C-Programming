@@ -1,0 +1,3 @@
+
+
+void pasarMayuscula (char *p);
